@@ -1,3 +1,11 @@
 ﻿  210304_proceduralHero.cpp
-C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(82,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(163,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(248,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(201,9): warning C4101: 'mapShopCount_init' :참조되지 않은 지역 변수입니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(202,9): warning C4101: 'mapKeyCount_init' :참조되지 않은 지역 변수입니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(200,9): warning C4101: 'mapEnemyCount_init' :참조되지 않은 지역 변수입니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(219,13): warning C4101: 'enemyMoneyDropMax' :참조되지 않은 지역 변수입니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(213,13): warning C4101: 'randomPos' :참조되지 않은 지역 변수입니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(220,13): warning C4101: 'enemyMoneyDropMin' :참조되지 않은 지역 변수입니다.
+C:\Users\LWK\source\repos\210304_proceduralHero\210304_proceduralHero\210304_proceduralHero.cpp(992,23): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   210304_proceduralHero.vcxproj -> C:\Users\LWK\source\repos\210304_proceduralHero\Debug\210304_proceduralHero.exe
